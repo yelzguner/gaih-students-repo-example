@@ -3,8 +3,8 @@
 
 **Course Date:** DD.MM.YYYY  
 **Name:** Yeliz  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
+**Surname:** Güner  
+**Email:** yelzguner@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
